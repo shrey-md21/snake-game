@@ -1,2 +1,2 @@
-# snake-game
-Implemented a Snake Game Java Project using Java Applications of AWT and Swing using Eclipse IDE.
+• The game involves controlling a single block or snakehead by turning left, right, up and down by ninety degrees until you manage to eat an apple. When you get the apple, the Snake grows an extra block or body segment.
+• If, or rather when, the snake bumps into the edge of the screen or accidentally eats itself the game is over. The more apples the snake eats the higher the score.
