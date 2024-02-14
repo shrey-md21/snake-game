@@ -1,4 +1,4 @@
-# Snake Game Readme
+# Snake Game
 
 ## Overview
 
